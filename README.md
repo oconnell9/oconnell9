@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 🔭 I’m currently working on Long-distance dispersal characteristics of biological invasions
 🌱 PhD Student in Geospatial Analytics @ North Carolina State University
 🦌 MS Pronghorn Movement Ecology and Space-use
-🛰 Highly interested in animal movement models, spatial ecology, and remote sensing
+🛰
