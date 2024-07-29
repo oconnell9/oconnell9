@@ -21,3 +21,21 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/tr-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/kalelzz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kalelzz&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
