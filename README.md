@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 🌱 PhD Student in Geospatial Analytics @ North Carolina State University
 🦌 MS Pronghorn Movement Ecology and Space-use
 🛰
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oconnell9&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
