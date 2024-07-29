@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 🛰
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oconnell9&rank=-C&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
