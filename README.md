@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 🦌 MS Pronghorn Movement Ecology and Space-use
 🛰
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oconnell9&rank=-C&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -31,6 +25,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oconnell9&rank=-C&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
+
 
 ###
 
