@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oconnell9&theme=algolia&langs_count=6)
+
 ![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true)
 
 🌱 Sometimes I make fun apps on my Dev post
