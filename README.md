@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oconnell9&rank=-C&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true&hide=jupytrnotebook)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oconnell9&theme=algolia&langs_count=6)
 
 ![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true)
 
