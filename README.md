@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
-🌱 Sometimes I make apps on my dev post
+🌱 Sometimes I make fun apps on my Dev post
 
 
