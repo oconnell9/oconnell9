@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on ... [![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+🔭 I’m currently working on ... 
 
 🌱 I’m currently learning ...
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oconnell9&rank=-C&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 🌱 Sometimes I make fun apps on my Dev post
