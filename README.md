@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=oconnell9&theme=algolia&hide=jupyternotebook,html)
 
 
-![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true&hide=jupyter20notebook,html)
+![Erin O'Connell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=oconnell9&theme=algolia&show_icons=true&hide=jupyter%20notebook,html)
 
 🌱 Sometimes I make fun apps on my Dev post
 
