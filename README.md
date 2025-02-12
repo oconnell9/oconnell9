@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 --> 
 
-🔭 I’m currently working on Long-distance dispersal characteristics of biological invasions
-🌱 PhD Student in Geospatial Analytics @ North Carolina State University
+🔭 I’m currently working on computer vision projects 
+🌱 I build applications and tools for wildlife-y people 
 🦌 MS Pronghorn Movement Ecology and Space-use
 🛰
 
